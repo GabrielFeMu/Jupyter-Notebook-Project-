@@ -1,1 +1,1 @@
-# Jupyther-Notebook-Project-
+# Jupyter-Notebook-Project-
